@@ -1,4 +1,4 @@
-#Bike Sales Dashboard
+<h1 align="left">Bike Sales Dashboard</h1>
 This repository contains an Excel-based data analysis project focused on bike purchase behavior across different demographic segments. 
 The workflow includes data cleaning, transformation, and visualization to derive actionable insights.
 
